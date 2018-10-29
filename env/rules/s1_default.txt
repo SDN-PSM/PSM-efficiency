@@ -1,0 +1,7 @@
+table_add t forward 2 => 1
+table_add t forward 1 => 2
+table_set_default flowlet lookup_flowlet_map
+table_set_default new_flowlet update_flowlet_id
+table_add ecmp_group set_ecmp_select 10.0.0.3/32 => 0 2
+table_add ecmp_nhop set_nhop 0 => 10.0.1.1 1
+table_add ecmp_nhop set_nhop 1 => 10.0.2.1 2

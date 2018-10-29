@@ -1,0 +1,9 @@
+*.log
+*.gz
+*.div
+*.bbl
+*.blg
+*.out
+*.spl
+*.pdf
+*.aux
