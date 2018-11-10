@@ -1,8 +1,8 @@
-## Up4 Evaluation
+## Evaluation
 
 ### Introduction
 
-This repository maintains the evaluation environment and the P4 programs used in the evaluation part of Up4 paper, including the P4 programs and control rules used in Section V-B1.
+This repository maintains the evaluation environment and the P4 programs used in the evaluation part of PSM paper (i.e., "PSM: Towards Efficient P4 Switch State Management"), including the P4 programs and control rules used in Section V-B1.
 
 ### Structure
 
